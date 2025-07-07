@@ -1,0 +1,6 @@
+.venv
+.env
+chromedriver.exe
+*.pyc
+__pycache__
+config.py

@@ -4,3 +4,6 @@ chromedriver.exe
 *.pyc
 __pycache__
 config.py
+credentials.json
+gmail_utils.py
+test.py
